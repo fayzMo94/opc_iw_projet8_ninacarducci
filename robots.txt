@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+
+#Sitemap
+
+Sitemap: https://fayzmo94.github.io/opc_iw_projet8_ninacarducci/sitemap.xml
