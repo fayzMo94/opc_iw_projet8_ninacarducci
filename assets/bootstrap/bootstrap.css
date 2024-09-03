@@ -595,6 +595,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
@@ -6135,7 +6136,7 @@ textarea.form-control-lg {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #d1462f;
+  /* background-color: #d1462f; */
   background-clip: padding-box;
   border: 0;
   border-top: 10px solid transparent;
